@@ -336,7 +336,7 @@ a {
     height: 5vw;
     padding-top: 2em;
     border-radius: 50%;
-    background: #00d089;
+    background: url(../img/btn.png) no-repeat center;
 }
 
 
