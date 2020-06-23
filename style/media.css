@@ -1,0 +1,29 @@
+@media (max-width: 768px) {
+    .nav {
+        display: none;
+    }
+    .logo {
+        width: 70%;
+    }
+    .text-description {
+        text-align: justify;    
+    }
+    .text-rewiew {
+        text-align: justify;
+    }
+    .right-top-review {
+        position: static;
+    }
+}
+
+@media (min-width: 769px) {
+    .burger {
+        display: none;
+    }
+    .banner {
+        background-size: 100%;
+    }
+    .contact {
+        background-size: 100%;
+    }
+}
